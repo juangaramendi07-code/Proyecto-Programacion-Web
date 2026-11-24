@@ -1,6 +1,6 @@
 
 import { useState, useEffect, useRef } from 'react'
-import './Carta.css'
+import './carta.css'
 
 function Carta() {
     const [modoOscuro, setModoOscuro] = useState(false)
